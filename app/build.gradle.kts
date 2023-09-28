@@ -5,7 +5,6 @@ plugins {
 android {
     namespace = "com.antonioje.holamundo"
     compileSdk = 33
-
     defaultConfig {
         applicationId = "com.antonioje.holamundo"
         minSdk = 26
